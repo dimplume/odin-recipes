@@ -1,7 +1,8 @@
 # odin-recipes
-
-10/09/23
-I encountered the issue 'unrelated histories' with git. I created the README.md file in my remote repository via GItHub AFTER cloning it onto my computer. I was not able to merge my main branch with the remote repository since they had no relationship. I fixed the issue by removing the cloned repository and cloned it again. I learnt that 'git clone' duplicates the remote repo onto the computer as a directory on its own: I did not need to make a folder for it to be cloned into. 
-
-10/10/23
-A challenge I've learnt from through this project is how to write git commit messages. 4 git commits in, half of which I appended for improved clarity, I am getting a decent idea on when and how to commit 'feat's. I am gaining an clearer understanding of git vocabulary, such as 'upstream rebase / changes' and have deepened my understanding of the remote repository origin and the main branch.
+<h1>Odin-recipes Project</h1>
+<hr>
+<h2>This is a basic HTML page showcasing three traditional Vietnamese recipes.</h2>
+<hr>
+<h3>Description</h3>
+<p>Welcome voyager, this is where you will find your next inventory of HP/MP craftable Vietnamese recipes for your travels. Godspeed.</p>
+<p>This is an HTML web page that introduces the culture of Vietnam through its famed cuisine. The intention behind this project is to apply the basics of HTML to deliver a functional, visually appealing, organized, and easy to navigate HTML web page. Enjoy.</p>
